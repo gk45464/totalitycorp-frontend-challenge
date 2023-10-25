@@ -12,6 +12,7 @@ Used React as a front-end framework
 -used Redux for state management.
 
 -used bootstarp to design the UI
+-used fakestoreapi to fetch product.
 
 
 implement a cart section to display the added products, quantities, and total cost. Allow users to increase, decrease, or remove items from the cart. 
