@@ -20,7 +20,9 @@ Display a variety of products with images, names, prices, and "Add to Cart" butt
 
 Display real-time updates of the cart total and item count. 
 
+# Deployment
 
+[(https://totalitycorp-frontend-challenge-vjb1.vercel.app/)]
 
 
 
@@ -29,3 +31,5 @@ Display real-time updates of the cart total and item count.
 ```terminal
 $ https://github.com/gk45464/totalitycorp-frontend-challenge.git
 $ yarn # or npm i
+
+
